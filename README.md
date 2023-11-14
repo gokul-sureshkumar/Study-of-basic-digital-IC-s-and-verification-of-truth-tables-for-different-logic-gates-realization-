@@ -88,7 +88,7 @@ Truth Table:
 
 ![image](https://github.com/gokul-sureshkumar/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121148715/f6321627-7011-40c4-b568-d48f7819e4be)
 
-RTL
+Waveform:
 
 ![image](https://github.com/gokul-sureshkumar/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121148715/d1f5857e-38b3-4263-be9f-9f2b83f0774d)
 
